@@ -4,7 +4,7 @@ Welcome to the official GitHub organization of OpenMonero. You can browse the re
 
 ## Donating
 
-You can donate via [our fundraising page](https://kuno.bitejo.com/fundraiser/z3q0)
+You can donate via [our fundraising page](https://kuno.anne.media/donate/z3q0/)
 
 ## Investing
 
